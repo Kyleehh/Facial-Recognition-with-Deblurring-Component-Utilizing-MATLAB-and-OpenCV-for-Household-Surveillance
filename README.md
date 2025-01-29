@@ -13,7 +13,7 @@ This project focuses on improving household surveillance by integrating facial d
 
 Key Features
 
-✅ Facial Deblurring – Enhances low-quality or blurred facial images for better recognition.
+✅ Facial Deblurring – Enhances low-quality or blurred facial images for better recognition using Richardson-Lucy (RL) Deconvolution 
 
 ✅ Facial Recognition – Identifies and verifies individuals using machine learning techniques.
 
@@ -34,7 +34,7 @@ Key Features
 📌 Use Cases
 
 •	Home Security Systems: Enhance CCTV footage for better identification of individuals.
-•	Smart Door Access: Improve facial recognition accuracy for secure entry systems.
+
 •	Forensic Applications: Restore and identify faces in low-quality surveillance footage.
 
 🤝 Contributing
