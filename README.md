@@ -14,15 +14,21 @@ This project focuses on improving household surveillance by integrating facial d
 Key Features
 
 ✅ Facial Deblurring – Enhances low-quality or blurred facial images for better recognition.
+
 ✅ Facial Recognition – Identifies and verifies individuals using machine learning techniques.
+
 ✅ MATLAB & OpenCV Integration – Utilizes MATLAB for algorithm development and OpenCV for image processing.
+
 ✅ Household Surveillance Application – Designed to improve security by enhancing facial recognition accuracy in real-world scenarios.
 
 ⚙️ Tech Stack
 
 •	Programming Languages: MATLAB, Python
+
 •	Libraries & Frameworks:
+
 •	OpenCV (for image processing)
+
 •	MATLAB Image Processing Toolbox
 
 📌 Use Cases
